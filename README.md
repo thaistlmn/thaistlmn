@@ -15,7 +15,7 @@ Iniciei minha jornada na tecnologia com a especialização Analista de Dados da 
 
 ## Contatos:
 <div>
-<a href="www.linkedin.com/in/thaisr-tallmann" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="80">
+<a href="www.linkedin.com/in/thaisr-tallmann" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="60" height="40">
 </a>   
 <!--
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
